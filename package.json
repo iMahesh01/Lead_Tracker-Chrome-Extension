@@ -1,5 +1,7 @@
 {
-  "name": "Mahesh",
+  "name": "Scrim-s06he6p",
+  "description": "https://v2.scrimba.com/learn-javascript-c0v/~0563",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -7,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^10.12.3",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
